@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "232057901176",
+    "project_id": "real-time-chat-applicati-850bb",
+    "storage_bucket": "real-time-chat-applicati-850bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232057901176:android:c2cf5e3d0f538bd02edd8d",
+        "android_client_info": {
+          "package_name": "com.example.trailproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232057901176-vkt6pejgmf85ufblu6th4g2u2jogsbrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNBC6Mwvhss9sICnDIFz5lJJbs9LA8PUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232057901176-vkt6pejgmf85ufblu6th4g2u2jogsbrd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "232057901176-kpa2llhitdup0jog9gl6gmlsl1tug8be.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatchat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232057901176:android:65f43908af2ba8ad2edd8d",
+        "android_client_info": {
+          "package_name": "com.realtimechat.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232057901176-vkt6pejgmf85ufblu6th4g2u2jogsbrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNBC6Mwvhss9sICnDIFz5lJJbs9LA8PUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232057901176-vkt6pejgmf85ufblu6th4g2u2jogsbrd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "232057901176-kpa2llhitdup0jog9gl6gmlsl1tug8be.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatchat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
